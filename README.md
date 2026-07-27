@@ -1,38 +1,89 @@
-# NOVA STUDIO
+# 🚀 NOVA AI Studio
 
-Премиальный сайт digital-студии NOVA STUDIO (бренд NOVA AI): React 18 + Vite + Tailwind CSS v4 + Framer Motion + React Router.
+<div align="center">
 
-## Установка
+<img src="https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/React-Vite-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Status-Development-orange?style=for-the-badge">
 
-```bash
-npm install
-npm run dev
-```
+</div>
 
-## Сборка для продакшена
+## 🌌 About Project
 
-```bash
-npm run build
-npm run preview
-```
+**NOVA AI Studio** — это современная AI-платформа нового поколения, созданная для работы с искусственным интеллектом.
 
-## Деплой на Vercel
+Проект объединяет различные AI-инструменты в одном удобном интерфейсе:
 
-1. Запушьте проект в GitHub.
-2. Импортируйте репозиторий в Vercel.
-3. Framework preset: **Vite**. Build command: `npm run build`. Output directory: `dist`.
-4. Deploy.
+- 🤖 AI Assistant
+- 💬 Intelligent Chat
+- 🎨 Image Generation
+- 🎬 Video Tools
+- 💻 Code Assistant
+- 📊 Business AI Solutions
 
-## Структура проекта
+Цель проекта — создать универсальную AI-экосистему для пользователей, разработчиков и бизнеса.
 
-```
-src/
-  components/
-    layout/    — Header, MobileMenu, Footer
-    sections/  — Hero, Services, Portfolio, Pricing, About, Contact
-    ui/        — GlowCard, GradientButton, AnimatedBackground, PageHeader, PageTransition
-  pages/       — Home, Services, Portfolio, Pricing, About, Contact
-  App.jsx
-  main.jsx
-  index.css
-```
+---
+
+# ✨ Features
+
+## 🤖 AI Assistant
+
+Умный помощник для:
+
+- генерации идей
+- анализа информации
+- работы с текстами
+- помощи в разработке
+
+---
+
+## 🎨 Creative AI
+
+Инструменты для творчества:
+
+- генерация изображений
+- редактирование контента
+- создание визуальных материалов
+
+---
+
+## 💻 Developer Tools
+
+Помощь разработчикам:
+
+- анализ кода
+- генерация решений
+- автоматизация задач
+
+---
+
+## 📈 Business AI
+
+AI-инструменты для бизнеса:
+
+- анализ проектов
+- автоматизация процессов
+- работа с данными
+
+---
+
+# 🛠 Tech Stack
+
+Frontend:
+
+- React
+- Vite
+- JavaScript
+- CSS
+- Responsive Design
+
+Tools:
+
+- Git
+- GitHub
+- VS Code
+
+---
+
+# 📂 Project Structure
