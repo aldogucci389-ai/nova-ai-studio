@@ -1,74 +1,50 @@
-# 🚀 NOVA AI Studio
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/React-Vite-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Status-Development-orange?style=for-the-badge">
+<img src="./public/images/nova-banner.png" width="100%" alt="NOVA AI Studio Banner">
+
+<br>
+
+# 🚀 NOVA AI Studio
+
+### Next Generation AI Platform
 
 </div>
 
+---
+
 ## 🌌 About Project
 
-**NOVA AI Studio** — это современная AI-платформа нового поколения, созданная для работы с искусственным интеллектом.
+**NOVA AI Studio** — современная AI-платформа нового поколения, созданная для объединения мощных инструментов искусственного интеллекта в одном удобном интерфейсе.
 
-Проект объединяет различные AI-инструменты в одном удобном интерфейсе:
-
-- 🤖 AI Assistant
-- 💬 Intelligent Chat
-- 🎨 Image Generation
-- 🎬 Video Tools
-- 💻 Code Assistant
-- 📊 Business AI Solutions
-
-Цель проекта — создать универсальную AI-экосистему для пользователей, разработчиков и бизнеса.
+Платформа разрабатывается для пользователей, разработчиков и бизнеса.
 
 ---
 
-# ✨ Features
+## ✨ Features
 
-## 🤖 AI Assistant
+🤖 **AI Assistant**
+- умный чат-помощник
+- генерация идей
+- анализ информации
 
-Умный помощник для:
+🎨 **Creative AI**
+- работа с изображениями
+- AI-креативные инструменты
+- генерация контента
 
-- генерации идей
-- анализа информации
-- работы с текстами
-- помощи в разработке
-
----
-
-## 🎨 Creative AI
-
-Инструменты для творчества:
-
-- генерация изображений
-- редактирование контента
-- создание визуальных материалов
-
----
-
-## 💻 Developer Tools
-
-Помощь разработчикам:
-
-- анализ кода
-- генерация решений
+💻 **Developer Tools**
+- помощь с кодом
+- анализ решений
 - автоматизация задач
 
----
-
-## 📈 Business AI
-
-AI-инструменты для бизнеса:
-
+📊 **Business AI**
 - анализ проектов
-- автоматизация процессов
-- работа с данными
+- управление задачами
+- AI-инструменты для бизнеса
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 Frontend:
 
@@ -76,7 +52,6 @@ Frontend:
 - Vite
 - JavaScript
 - CSS
-- Responsive Design
 
 Tools:
 
@@ -86,4 +61,9 @@ Tools:
 
 ---
 
-# 📂 Project Structure
+## 🚀 Installation
+
+Clone repository:
+
+```bash
+git clone https://github.com/aldogucci389-ai/nova-ai-studio.git
